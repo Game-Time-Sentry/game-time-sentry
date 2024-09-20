@@ -1,0 +1,1 @@
+export const getNavigationScreen = state => state.navigation.screen;
