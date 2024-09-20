@@ -24,3 +24,4 @@ Over the years, I became extra interested in the idea of tracking game time and 
 [] Database migration flow
 [] Data migration for Gameplay Time Tracker, ver. 3.1.0.0
 [] Dashboard (Data Analysis)
+[] Auto-update or Microsoft App Store
