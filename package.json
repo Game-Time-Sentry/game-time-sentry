@@ -45,6 +45,11 @@
   },
   "homepage": "https://github.com/Game-Time-Sentry/game-time-sentry#readme",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
   }
 }
