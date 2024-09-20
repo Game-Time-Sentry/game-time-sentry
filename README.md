@@ -28,3 +28,4 @@ Over the years, I became extra interested in the idea of tracking game time and 
 - [ ] Dashboard (Data Analysis)
 - [ ] Auto-update or Microsoft App Store
 - [ ] Themes
+- [ ] Track more than one game
