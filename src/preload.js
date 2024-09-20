@@ -4,6 +4,6 @@
 import { version } from '../package.json';
 import { contextBridge } from 'electron';
 
-contextBridge.exposeInMainWorld('context', {
+contextBridge.exposeInMainWorld('appContext', {
     version: version
 });
