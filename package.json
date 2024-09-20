@@ -1,0 +1,25 @@
+{
+  "name": "game-time-sentry",
+  "version": "0.1.0",
+  "description": "Simple background application for tracking game time",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Game-Time-Sentry/game-time-sentry.git"
+  },
+  "keywords": [
+    "game",
+    "time",
+    "tracking",
+    "windows"
+  ],
+  "author": "Nicolas Siver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Game-Time-Sentry/game-time-sentry/issues"
+  },
+  "homepage": "https://github.com/Game-Time-Sentry/game-time-sentry#readme"
+}
