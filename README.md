@@ -22,9 +22,9 @@ Over the years, I became extra interested in the idea of tracking game time and 
 
 ## Roadmap and Aspirations
 
-[] General process tracking service
-[] Database flow
-[] Data migration for Gameplay Time Tracker, ver. 3.1.0.0
-[] Dashboard (Data Analysis)
-[] Auto-update or Microsoft App Store
-[] Themes
+- [] General process tracking service
+- [] Database flow
+- [] Data migration for Gameplay Time Tracker, ver. 3.1.0.0
+- [] Dashboard (Data Analysis)
+- [] Auto-update or Microsoft App Store
+- [] Themes
