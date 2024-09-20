@@ -2,6 +2,8 @@
 
 > Proof of concept. Work in progress...
 
+> Notes on development: Gameplay Time Tracker ver. 3.1.0.0 works fine in the the current Windows 11 environment, which hopefully gives a lot of time for the development of the new application.
+
 ## What is Game Time Sentry?
 
 This is a simple background application for tracking game time. It's designed to work only in a Windows environment.
