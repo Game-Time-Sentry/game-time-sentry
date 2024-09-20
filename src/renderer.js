@@ -29,3 +29,4 @@
 import '../style/index.css';
 
 console.log('👋 This message is being logged by "renderer.js", included via Vite');
+console.log(window.context);
