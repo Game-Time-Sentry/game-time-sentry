@@ -1,6 +1,7 @@
 import React from "react";
-import IconMenu from "@mui/icons-material/Menu"
 import { AppBar, Button, IconButton, Toolbar, Typography } from "@mui/material";
+import IconMenu from "@mui/icons-material/Menu"
+import IconSettings from "@mui/icons-material/Settings"
 
 export const Header = () => {
     return (
@@ -18,7 +19,15 @@ export const Header = () => {
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                         {window.languageText.appName}
                     </Typography>
-                    <Button color="inherit">{window.languageText.settings}</Button>
+                    <Button color="inherit"></Button>
+                    <IconButton
+                        size="large"
+                        edge="end"
+                        color="inherit"
+                        aria-label="settings"
+                        sx={{ mr: 2 }}>
+                        <IconSettings />
+                    </IconButton>
                 </Toolbar>
             </AppBar>
         </div>
