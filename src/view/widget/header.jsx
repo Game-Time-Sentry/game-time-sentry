@@ -17,7 +17,7 @@ export const Header = () => {
                         <IconMenu />
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        {window.languageText.appName}
+                        {window.languageText.appName} ver. {window.appContext.version}
                     </Typography>
                     <Button color="inherit"></Button>
                     <IconButton
@@ -25,7 +25,7 @@ export const Header = () => {
                         edge="end"
                         color="inherit"
                         aria-label="settings"
-                        sx={{ mr: 2 }}>
+                        sx={{ ml: 2 }}>
                         <IconSettings />
                     </IconButton>
                 </Toolbar>
