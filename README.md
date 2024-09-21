@@ -29,3 +29,5 @@ Over the years, I became extra interested in the idea of tracking game time and 
 - [ ] Auto-update or Microsoft App Store
 - [ ] Themes
 - [ ] Track more than one game
+- [ ] Data card to share with friends
+- [ ] Multilanguage support

@@ -26,7 +26,6 @@
     "electron": "32.1.2",
     "jest": "^29.7.0",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.12",
     "vite": "^5.0.12"
   },
   "repository": {
@@ -46,6 +45,11 @@
   },
   "homepage": "https://github.com/Game-Time-Sentry/game-time-sentry#readme",
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.1",
+    "@mui/material": "^6.1.1",
     "@reduxjs/toolkit": "^2.2.7",
     "electron-squirrel-startup": "^1.0.1",
     "react": "^18.3.1",
