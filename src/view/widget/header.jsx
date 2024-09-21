@@ -16,9 +16,9 @@ export const Header = () => {
                         <IconMenu />
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        Game Time Sentry
+                        {window.languageText.appName}
                     </Typography>
-                    <Button color="inherit">Settings</Button>
+                    <Button color="inherit">{window.languageText.settings}</Button>
                 </Toolbar>
             </AppBar>
         </div>
