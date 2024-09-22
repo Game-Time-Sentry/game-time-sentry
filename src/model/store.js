@@ -5,8 +5,9 @@ import * as Screens from "./screens";
 
 export function createInitState() {
     return {
+        logs: [],
         navigation: {
-            screen: Screens.START
+            screen: Screens.LOGGER
         }
     };
 }
